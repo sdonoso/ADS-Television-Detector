@@ -1,24 +1,23 @@
 #include <iostream>
 #include <opencv2/opencv.hpp>
+#include <string>
+#include "extraction.hpp"
+#include "loadFile.hpp"
+#include "pathFiles.hpp"
+#include <vector>
 
-using namespace cv;
 
-int main() {
-    VideoCapture cap(0);
-    if(!cap.isOpened())
-        return -1;
-
-    Mat edges;
-    namedWindow("edges",1);
-    for(;;)
-    {
-        Mat frame;
-        cap >> frame; // get a new frame from camera
-        cvtColor(frame, edges, COLOR_BGR2GRAY);
-        GaussianBlur(edges, edges, Size(7,7), 0.5, 0.5);
-        Canny(edges, edges, 0, 30, 3);
-        imshow("edges", edges);
-        if(waitKey(30) >= 0) break;
+int main(int argc, char **argv) {
+    if (argc != 2) {
+        std::cout << "debe escribir un directorio" << std::endl;
+        return EXIT_FAILURE;
     }
-    return 0;
+    std::string dirname(argv[1]);
+    std::vector<std::string> list = listar_archivos(dirname);
+    for (const std::string &fullpath : list) {
+        std::cout << fullpath << std::endl;
+        extraction(fullpath);
+    }
+    //std::vector<cv::Mat> frames = loadFile("/Users/sebastiandonoso/CLionProjects/t1_comerciales/ballerina.yml");
+    return EXIT_SUCCESS;
 }

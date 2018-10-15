@@ -5,7 +5,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/extraction.cpp.o"
+  "/Users/sebastiandonoso/CLionProjects/t1_comerciales/load_file.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/load_file.cpp.o"
+  "/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o"
   "/Users/sebastiandonoso/CLionProjects/t1_comerciales/main.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/main.cpp.o"
+  "/Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

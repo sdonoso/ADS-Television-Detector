@@ -83,16 +83,61 @@ CMakeFiles/t1_comerciales.dir/extraction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/t1_comerciales.dir/extraction.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp -o CMakeFiles/t1_comerciales.dir/extraction.cpp.s
 
+CMakeFiles/t1_comerciales.dir/load_file.cpp.o: CMakeFiles/t1_comerciales.dir/flags.make
+CMakeFiles/t1_comerciales.dir/load_file.cpp.o: ../load_file.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/t1_comerciales.dir/load_file.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/t1_comerciales.dir/load_file.cpp.o -c /Users/sebastiandonoso/CLionProjects/t1_comerciales/load_file.cpp
+
+CMakeFiles/t1_comerciales.dir/load_file.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/t1_comerciales.dir/load_file.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sebastiandonoso/CLionProjects/t1_comerciales/load_file.cpp > CMakeFiles/t1_comerciales.dir/load_file.cpp.i
+
+CMakeFiles/t1_comerciales.dir/load_file.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/t1_comerciales.dir/load_file.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sebastiandonoso/CLionProjects/t1_comerciales/load_file.cpp -o CMakeFiles/t1_comerciales.dir/load_file.cpp.s
+
+CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o: CMakeFiles/t1_comerciales.dir/flags.make
+CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o: ../pathFiles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o -c /Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.cpp
+
+CMakeFiles/t1_comerciales.dir/pathFiles.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/t1_comerciales.dir/pathFiles.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.cpp > CMakeFiles/t1_comerciales.dir/pathFiles.cpp.i
+
+CMakeFiles/t1_comerciales.dir/pathFiles.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/t1_comerciales.dir/pathFiles.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.cpp -o CMakeFiles/t1_comerciales.dir/pathFiles.cpp.s
+
+CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o: CMakeFiles/t1_comerciales.dir/flags.make
+CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o: ../lookSimilar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o -c /Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp
+
+CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp > CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.i
+
+CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp -o CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.s
+
 # Object files for target t1_comerciales
 t1_comerciales_OBJECTS = \
 "CMakeFiles/t1_comerciales.dir/main.cpp.o" \
-"CMakeFiles/t1_comerciales.dir/extraction.cpp.o"
+"CMakeFiles/t1_comerciales.dir/extraction.cpp.o" \
+"CMakeFiles/t1_comerciales.dir/load_file.cpp.o" \
+"CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o" \
+"CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o"
 
 # External object files for target t1_comerciales
 t1_comerciales_EXTERNAL_OBJECTS =
 
 t1_comerciales: CMakeFiles/t1_comerciales.dir/main.cpp.o
 t1_comerciales: CMakeFiles/t1_comerciales.dir/extraction.cpp.o
+t1_comerciales: CMakeFiles/t1_comerciales.dir/load_file.cpp.o
+t1_comerciales: CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o
+t1_comerciales: CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o
 t1_comerciales: CMakeFiles/t1_comerciales.dir/build.make
 t1_comerciales: /Users/sebastiandonoso/dependencias/opencv/lib/libopencv_dnn.3.4.2.dylib
 t1_comerciales: /Users/sebastiandonoso/dependencias/opencv/lib/libopencv_ml.3.4.2.dylib
@@ -112,7 +157,7 @@ t1_comerciales: /Users/sebastiandonoso/dependencias/opencv/lib/libopencv_imgcode
 t1_comerciales: /Users/sebastiandonoso/dependencias/opencv/lib/libopencv_imgproc.3.4.2.dylib
 t1_comerciales: /Users/sebastiandonoso/dependencias/opencv/lib/libopencv_core.3.4.2.dylib
 t1_comerciales: CMakeFiles/t1_comerciales.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable t1_comerciales"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable t1_comerciales"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/t1_comerciales.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

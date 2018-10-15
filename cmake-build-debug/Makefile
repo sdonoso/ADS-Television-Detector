@@ -150,6 +150,60 @@ extraction.cpp.s:
 	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/extraction.cpp.s
 .PHONY : extraction.cpp.s
 
+load_file.o: load_file.cpp.o
+
+.PHONY : load_file.o
+
+# target to build an object file
+load_file.cpp.o:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/load_file.cpp.o
+.PHONY : load_file.cpp.o
+
+load_file.i: load_file.cpp.i
+
+.PHONY : load_file.i
+
+# target to preprocess a source file
+load_file.cpp.i:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/load_file.cpp.i
+.PHONY : load_file.cpp.i
+
+load_file.s: load_file.cpp.s
+
+.PHONY : load_file.s
+
+# target to generate assembly for a file
+load_file.cpp.s:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/load_file.cpp.s
+.PHONY : load_file.cpp.s
+
+lookSimilar.o: lookSimilar.cpp.o
+
+.PHONY : lookSimilar.o
+
+# target to build an object file
+lookSimilar.cpp.o:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o
+.PHONY : lookSimilar.cpp.o
+
+lookSimilar.i: lookSimilar.cpp.i
+
+.PHONY : lookSimilar.i
+
+# target to preprocess a source file
+lookSimilar.cpp.i:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.i
+.PHONY : lookSimilar.cpp.i
+
+lookSimilar.s: lookSimilar.cpp.s
+
+.PHONY : lookSimilar.s
+
+# target to generate assembly for a file
+lookSimilar.cpp.s:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.s
+.PHONY : lookSimilar.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -177,6 +231,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+pathFiles.o: pathFiles.cpp.o
+
+.PHONY : pathFiles.o
+
+# target to build an object file
+pathFiles.cpp.o:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o
+.PHONY : pathFiles.cpp.o
+
+pathFiles.i: pathFiles.cpp.i
+
+.PHONY : pathFiles.i
+
+# target to preprocess a source file
+pathFiles.cpp.i:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/pathFiles.cpp.i
+.PHONY : pathFiles.cpp.i
+
+pathFiles.s: pathFiles.cpp.s
+
+.PHONY : pathFiles.s
+
+# target to generate assembly for a file
+pathFiles.cpp.s:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/pathFiles.cpp.s
+.PHONY : pathFiles.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -189,9 +270,18 @@ help:
 	@echo "... extraction.o"
 	@echo "... extraction.i"
 	@echo "... extraction.s"
+	@echo "... load_file.o"
+	@echo "... load_file.i"
+	@echo "... load_file.s"
+	@echo "... lookSimilar.o"
+	@echo "... lookSimilar.i"
+	@echo "... lookSimilar.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... pathFiles.o"
+	@echo "... pathFiles.i"
+	@echo "... pathFiles.s"
 .PHONY : help
 
 

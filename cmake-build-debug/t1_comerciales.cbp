@@ -89,7 +89,25 @@
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp">
 			<Option target="t1_comerciales"/>
 		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.hpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/loadFile.hpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/load_file.cpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/main.cpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.cpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.hpp">
 			<Option target="t1_comerciales"/>
 		</Unit>
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/CMakeLists.txt">

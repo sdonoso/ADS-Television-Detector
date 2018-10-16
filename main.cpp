@@ -5,10 +5,18 @@
 #include "loadFile.hpp"
 #include "pathFiles.hpp"
 #include <vector>
+#include "lookSimilar.hpp"
 
-
+//TODO falta funcion para extraer de a un frame del video y comparar con comerciales,
+// TODO ademas cargar todos los comerciales en un vector y sus nombres
 int main(int argc, char **argv) {
-    if (argc != 2) {
+    std::string direct = "/Users/sebastiandonoso/Documents/Universidad/2018/Recuperacion de la informacion/T1/comerciales/frames-c";
+    std::vector<std::string> commercialsNames;
+    std::vector<std::vector<cv::Mat>> commercials;
+    commercials = loadCommercials(direct, commercialsNames);
+    std::vector<cv::Mat> video = loadFile("video-prueba.yml");
+    runNearest(commercialsNames, commercials, video);
+    /*if (argc != 2) {
         std::cout << "debe escribir un directorio" << std::endl;
         return EXIT_FAILURE;
     }
@@ -16,8 +24,11 @@ int main(int argc, char **argv) {
     std::vector<std::string> list = listar_archivos(dirname);
     for (const std::string &fullpath : list) {
         std::cout << fullpath << std::endl;
-        extraction(fullpath);
+        //extraction(fullpath);
     }
     //std::vector<cv::Mat> frames = loadFile("/Users/sebastiandonoso/CLionProjects/t1_comerciales/ballerina.yml");
-    return EXIT_SUCCESS;
+    return EXIT_SUCCESS;*/
+    /*videoExtraction(
+            "/Users/sebastiandonoso/Documents/Universidad/2018/Recuperacion de la informacion/T1/television/mega-2014_04_10.mp4");*/
+    return 0;
 }

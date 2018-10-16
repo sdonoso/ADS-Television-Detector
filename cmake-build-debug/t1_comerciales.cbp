@@ -86,6 +86,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/detection.cpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp">
 			<Option target="t1_comerciales"/>
 		</Unit>
@@ -99,6 +102,9 @@
 			<Option target="t1_comerciales"/>
 		</Unit>
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.hpp">
 			<Option target="t1_comerciales"/>
 		</Unit>
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/main.cpp">

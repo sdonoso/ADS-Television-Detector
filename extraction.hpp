@@ -8,6 +8,7 @@
 #include <string>
 
 int extraction(std::string fileName);
+int videoExtraction(std::string file);
 
 #endif //T1_COMERCIALES_EXTRACTION_H
 

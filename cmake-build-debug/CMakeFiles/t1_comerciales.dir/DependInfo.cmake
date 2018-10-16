@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/sebastiandonoso/CLionProjects/t1_comerciales/detection.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/detection.cpp.o"
   "/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/extraction.cpp.o"
   "/Users/sebastiandonoso/CLionProjects/t1_comerciales/load_file.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/load_file.cpp.o"
   "/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp" "/Users/sebastiandonoso/CLionProjects/t1_comerciales/cmake-build-debug/CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o"

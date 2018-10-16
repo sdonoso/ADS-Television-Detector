@@ -28,7 +28,7 @@ bool endsWith(const std::string &mainStr, const std::string &toMatch) {
         return false;
     }
 }
-
+//TODO agregar un variable para el tipo de archvio que se quiere y descomentar if
 std::vector<std::string> listar_archivos(const std::string &dirname) {
     std::vector<std::string> list;
 
@@ -40,11 +40,11 @@ std::vector<std::string> listar_archivos(const std::string &dirname) {
     }
     for (int i = 0; i < len; ++i) {
         std::string name(namelist[i]->d_name);
-        if (endsWith(name, ".mpg")) {
+        //if (endsWith(name, ".mpg")) {
 
             agregar_archivo(dirname, name, list);
             free(namelist[i]);
-        }
+        //}
     }
     free(namelist);
     std::sort(list.begin(), list.end());

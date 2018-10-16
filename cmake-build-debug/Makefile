@@ -123,6 +123,33 @@ t1_comerciales/fast:
 	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/build
 .PHONY : t1_comerciales/fast
 
+detection.o: detection.cpp.o
+
+.PHONY : detection.o
+
+# target to build an object file
+detection.cpp.o:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/detection.cpp.o
+.PHONY : detection.cpp.o
+
+detection.i: detection.cpp.i
+
+.PHONY : detection.i
+
+# target to preprocess a source file
+detection.cpp.i:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/detection.cpp.i
+.PHONY : detection.cpp.i
+
+detection.s: detection.cpp.s
+
+.PHONY : detection.s
+
+# target to generate assembly for a file
+detection.cpp.s:
+	$(MAKE) -f CMakeFiles/t1_comerciales.dir/build.make CMakeFiles/t1_comerciales.dir/detection.cpp.s
+.PHONY : detection.cpp.s
+
 extraction.o: extraction.cpp.o
 
 .PHONY : extraction.o
@@ -267,6 +294,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... t1_comerciales"
+	@echo "... detection.o"
+	@echo "... detection.i"
+	@echo "... detection.s"
 	@echo "... extraction.o"
 	@echo "... extraction.i"
 	@echo "... extraction.s"

@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp
-extraction.hpp
-/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.hpp
+/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.cpp
 iostream
 -
 opencv2/opencv.hpp
@@ -19,35 +17,19 @@ fstream
 -
 vector
 -
-vector
+tuple
 -
+lookSimilar.hpp
+/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.hpp
 
-/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.hpp
+/Users/sebastiandonoso/CLionProjects/t1_comerciales/lookSimilar.hpp
 string
 -
-
-/Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.cpp
-dirent.h
--
-sys/stat.h
--
-algorithm
--
-cstdlib
--
-iostream
--
-string
+opencv2/opencv.hpp
 -
 vector
 -
-pathFiles.hpp
-/Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.hpp
-
-/Users/sebastiandonoso/CLionProjects/t1_comerciales/pathFiles.hpp
-string
--
-vector
+tuple
 -
 
 /Users/sebastiandonoso/dependencias/opencv/include/opencv/cxcore.h

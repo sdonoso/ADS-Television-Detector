@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/t1_comerciales.dir/load_file.cpp.o"
   "CMakeFiles/t1_comerciales.dir/pathFiles.cpp.o"
   "CMakeFiles/t1_comerciales.dir/lookSimilar.cpp.o"
+  "CMakeFiles/t1_comerciales.dir/detection.cpp.o"
   "t1_comerciales.pdb"
   "t1_comerciales"
 )

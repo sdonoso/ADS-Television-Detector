@@ -12,28 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f613c63-84e9-45f3-8b44-4c87e8eedddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/detection.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lookSimilar.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detection.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t1_comerciales.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/t1_comerciales" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/t1_comerciales" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/t1_comerciales.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/t1_comerciales.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detection.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/detection.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extraction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/extraction.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraction.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/extraction.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loadFile.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/loadFile.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/load_file.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/load_file.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lookSimilar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lookSimilar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lookSimilar.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/lookSimilar.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pathFiles.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/pathFiles.cpp" afterDir="false" />
     </list>
@@ -49,58 +37,60 @@
     <session id="1785275095">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="5203" />
+          <entry key="cpp" value="6925" />
           <entry key="h" value="68" />
-          <entry key="hpp" value="23" />
+          <entry key="hpp" value="26" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="33" />
-          <entry key="ObjectiveC" value="5294" />
+          <entry key="Doxygen file" value="13" />
+          <entry key="ObjectiveC" value="7006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="25" />
+          <entry key="cpp" value="27" />
           <entry key="gitignore" value="1" />
           <entry key="h" value="4" />
-          <entry key="hpp" value="8" />
+          <entry key="hpp" value="11" />
           <entry key="string" value="1" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="7" />
           <entry key="vector" value="1" />
           <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="39" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="CMakeLists.txt" value="2" />
+          <entry key="ObjectiveC" value="44" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -108,13 +98,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/detecciones.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/detection.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+            <state relative-caret-position="289">
+              <caret line="66" column="117" selection-start-line="66" selection-start-column="105" selection-end-line="66" selection-end-column="117" />
               <folding>
-                <element signature="e#50#69#0" expanded="true" />
+                <element signature="e#51#70#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,34 +122,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lookSimilar.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="43" column="92" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="92" />
+            <state relative-caret-position="507">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="22" />
               <folding>
                 <element signature="e#50#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/extraction.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
-              <folding>
-                <element signature="e#50#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/load_file.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-              <folding>
-                <element signature="e#50#73#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,13 +145,15 @@
         <option value="$PROJECT_DIR$/pathFiles.h" />
         <option value="$PROJECT_DIR$/pathFiles.hpp" />
         <option value="$PROJECT_DIR$/extraction.hpp" />
-        <option value="$PROJECT_DIR$/extraction.cpp" />
         <option value="$PROJECT_DIR$/lookSimilar.h" />
         <option value="$PROJECT_DIR$/loadFile.hpp" />
+        <option value="$PROJECT_DIR$/extraction.cpp" />
         <option value="$PROJECT_DIR$/pathFiles.cpp" />
         <option value="$PROJECT_DIR$/load_file.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/lookSimilar.hpp" />
+        <option value="$PROJECT_DIR$/detection.hpp" />
         <option value="$PROJECT_DIR$/lookSimilar.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/detection.cpp" />
       </list>
     </option>
@@ -204,6 +181,11 @@
             <path>
               <item name="t1_comerciales" type="b2602c69:ProjectViewProjectNode" />
               <item name="t1_comerciales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t1_comerciales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t1_comerciales" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,23 +241,24 @@
       <workItem from="1538860819895" duration="809000" />
       <workItem from="1539392810975" duration="217000" />
       <workItem from="1539563728793" duration="18588000" />
-      <workItem from="1539632140007" duration="15467000" />
+      <workItem from="1539632140007" duration="16144000" />
+      <workItem from="1540178611902" duration="10232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39955000" />
+    <option name="totallyTimeSpent" value="50864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1360" y="0" width="1360" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27996966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2837633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3409742" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28510028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,7 +308,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/pathFiles.cpp</url>
-          <line>51</line>
+          <line>57</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
@@ -365,23 +348,6 @@
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/video-prueba.yml">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/extraction.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lookSimilar.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
-          <folding>
-            <element signature="e#125#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/vector">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -406,10 +372,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/extraction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="e#50#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pathFiles.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+        <state relative-caret-position="326">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
           <folding>
             <element signature="e#1#20#0" expanded="true" />
           </folding>
@@ -418,30 +394,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/load_file.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="420">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
           <folding>
             <element signature="e#50#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extraction.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
-          <folding>
-            <element signature="e#50#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,22 +409,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lookSimilar.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detection.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#125#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extraction.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lookSimilar.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="43" column="92" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="92" />
+        <state relative-caret-position="507">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="22" />
           <folding>
             <element signature="e#50#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/detecciones.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/detection.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
+        <state relative-caret-position="289">
+          <caret line="66" column="117" selection-start-line="66" selection-start-column="105" selection-end-line="66" selection-end-column="117" />
           <folding>
-            <element signature="e#50#69#0" expanded="true" />
+            <element signature="e#51#70#0" expanded="true" />
           </folding>
         </state>
       </provider>

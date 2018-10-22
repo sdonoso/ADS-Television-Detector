@@ -10,7 +10,10 @@
 
 
 int extraction(std::string fileName) {
-    //std::vector<uchar> frames_video;
+    /**
+     * se extraen los frames de los comerciales
+     *
+     */
     cv::VideoCapture capture;
     capture.open(fileName);
     if (!capture.isOpened()) {
@@ -49,6 +52,11 @@ int extraction(std::string fileName) {
 }
 
 int videoExtraction(std::string file) {
+    /**
+     *
+     * se extraen los frames del video
+     *
+     */
     cv::VideoCapture capture;
     capture.open(file);
     int i = 0;

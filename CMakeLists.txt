@@ -5,6 +5,6 @@ find_package(OpenCV REQUIRED HINTS /Users/sebastiandonoso/dependencias/opencv/sh
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(t1_comerciales main.cpp extraction.cpp extraction.hpp load_file.cpp loadFile.hpp pathFiles.cpp pathFiles.hpp lookSimilar.cpp lookSimilar.hpp detection.cpp)
+add_executable(t1_comerciales main.cpp extraction.cpp extraction.hpp load_file.cpp loadFile.hpp pathFiles.cpp pathFiles.hpp lookSimilar.cpp lookSimilar.hpp detection.cpp detection.hpp)
 target_include_directories(t1_comerciales PUBLIC ${OpenCV_INCLUDE_DIRS})
 target_link_libraries(t1_comerciales ${OpenCV_LIBS})

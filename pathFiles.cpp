@@ -20,6 +20,9 @@ void agregar_archivo(const std::string &dirname, const std::string &name, std::v
 }
 
 bool endsWith(const std::string &mainStr, const std::string &toMatch) {
+    /**
+     * filtro para videos solo terminados en mpg
+     */
     if (mainStr.size() >= toMatch.size() &&
         mainStr.compare(mainStr.size() - toMatch.size(), toMatch.size(), toMatch) == 0) {
         return true;
@@ -30,6 +33,9 @@ bool endsWith(const std::string &mainStr, const std::string &toMatch) {
 }
 //TODO agregar un variable para el tipo de archvio que se quiere y descomentar if
 std::vector<std::string> listar_archivos(const std::string &dirname) {
+    /**
+     * lista los archivos en un directorio
+     */
     std::vector<std::string> list;
 
     struct dirent **namelist = NULL;

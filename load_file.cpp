@@ -11,6 +11,9 @@
 
 
 std::vector<cv::Mat> loadFile(std::string file) {
+    /**
+     * se carga un archivo guardado en disco
+     */
     cv::FileStorage fs2(file, cv::FileStorage::READ);
     std::vector<cv::Mat> framesVector;
     fs2["frames"] >> framesVector;
@@ -22,6 +25,9 @@ std::vector<cv::Mat> loadFile(std::string file) {
 
 std::vector<std::vector<cv::Mat>>
 loadCommercials(const std::string &directory, std::vector<std::string> &namesCommercials) {
+    /**
+     * carga los comerciales guardados en disco
+     */
     std::vector<std::vector<cv::Mat>> commercials;
     std::vector<std::string> list = listar_archivos(directory);
     for (std::string &fullpath : list) {

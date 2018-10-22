@@ -1,0 +1,16 @@
+249	30	mall plaza (2)
+296	26	scotiabank
+367	31	vtr
+434	16	falabella connect
+948	26	scotiabank
+1243	23	colgate total12
+1473	25	scotiabank
+1582	25	scotiabank
+1674	15	pantene expert
+2103	35	cristal
+2638	21	omo1
+3159	31	cristal
+3302	31	ferreteria mts
+3333	16	falabella connect
+3350	17	dove desodorante hombre
+3526	18	colgate sensitive

@@ -89,6 +89,9 @@
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/detection.cpp">
 			<Option target="t1_comerciales"/>
 		</Unit>
+		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/detection.hpp">
+			<Option target="t1_comerciales"/>
+		</Unit>
 		<Unit filename="/Users/sebastiandonoso/CLionProjects/t1_comerciales/extraction.cpp">
 			<Option target="t1_comerciales"/>
 		</Unit>
